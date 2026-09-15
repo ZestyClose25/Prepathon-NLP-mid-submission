@@ -1,5 +1,11 @@
 # Agentic Customer 360 — Mid-Term Submission
 
+Name - T S Dhanavignesh
+<br>
+Roll - 25055017
+<br>
+NLP Midterm submission report
+
 ## 1. Preliminary Research Log
 
 The problem is an **ambient agentic Customer 360 system** that continuously consumes asynchronous customer events, maintains customer memory, detects meaningful changes, and decides whether a bounded intervention is required.
